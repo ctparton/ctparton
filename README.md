@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ctparton
+- 
+[![1000x420](https://giphy.com/gifs/ESwXtRvlx3PzPN7iIy "Callum Parton")](https://github.com/ctparton)
 
-[https://giphy.com/gifs/ESwXtRvlx3PzPN7iIy]
 
 <!---
 ctparton/ctparton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
