@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ctparton
 
-[![1000x420](https://giphy.com/gifs/ESwXtRvlx3PzPN7iIy "Callum Parton")](https://github.com/ctparton)
+[![1000x420](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjViYzJkMGFlYTA2MzA5ZmE3ZTA2OGJkMGU1NjBkNjQxMDdhYTc1NyZjdD1n/ESwXtRvlx3PzPN7iIy/giphy.gif "Callum Parton")](https://github.com/ctparton)
 
 
 <!---
