@@ -6,6 +6,12 @@ ctparton/ctparton is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/ctparton"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ctparton&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/ctparton?pet-id=669494824561601500"
+    width="604"
+    height="120"
+  />
 </a>
+
